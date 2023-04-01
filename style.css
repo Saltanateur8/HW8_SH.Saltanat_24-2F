@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #f5f5f5;
+    font-size: 24px;
+    font-family: Arial, sans-serif;
+}
+
+button {
+    padding: 12px 24px;
+    border: none;
+    border-radius: 4px;
+    background-color: #2196f3;
+    color: #fff;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+
+.color_result{
+    width: 200px;
+    height: 100px;
+    border: none;
+    border-radius: 4px;
+    background-color: black;
+    color: #fff;
+    font-size: 24px;
+    cursor: pointer;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
